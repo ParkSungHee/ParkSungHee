@@ -3,8 +3,7 @@
   
 <br/><br/>
   
-![통계 제목](https://github-readme-stats.vercel.app/api?username=ParkSungHee&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSungHee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![통계 제목](https://github-readme-stats.vercel.app/api?username=ParkSungHee&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSungHee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/><br/>
   
 <h2 align="center"> i can do 💻</h2>
