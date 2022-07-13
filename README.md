@@ -18,5 +18,5 @@
 <br/><br/>
 <h2 align="center"> contact me 📞</h2>
 
-<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/Tistory-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://heespace.tistory.com/"/></a>
+<p align="center"><a href="https://heespace.tistory.com/"><img src="https://img.shields.io/badge/Tistory-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://heespace.tistory.com/"/></a>
  
